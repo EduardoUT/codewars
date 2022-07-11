@@ -1,3 +1,5 @@
+package mx.com.codewars;
+
 
 import java.util.Arrays;
 
